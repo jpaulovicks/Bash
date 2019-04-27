@@ -1,2 +1,2 @@
 # Bash
-Placeholder for Bash script
+Placeholder for Bash scripts
