@@ -1,2 +1,2 @@
 # Bash
-Placeholder for Bash scripts
+template.sh - Simple bash/shell scrupt template
